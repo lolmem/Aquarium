@@ -1,13 +1,6 @@
-# install
+# download https://github.com/Bletraut/fluence-nodejs-template to windows dir 
+# install 
 
 `npm i`
 
-# run service
-
-`npm start`
-
-# send message
-
-`npm run sendMessage "message text"`
-
-Send message to a special topic
+and run Aquarium.exe (Aquarium.pro for qmake)
