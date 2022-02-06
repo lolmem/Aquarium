@@ -3,4 +3,4 @@
 
 `npm i`
 
-and run Aquarium.exe (Aquarium.pro for qmake)
+and upload this repo in this dir, after run Aquarium.exe (Aquarium.pro for qmake build)
