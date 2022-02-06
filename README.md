@@ -1,4 +1,13 @@
-# Aquarium
-Distributed self-evolving cellular automaton.
-windows: install npm https://nodejs.org/dist/v16.13.2/node-v16.13.2-x64.msi and
-run Aquarium.exe
+# install
+
+`npm i`
+
+# run service
+
+`npm start`
+
+# send message
+
+`npm run sendMessage "message text"`
+
+Send message to a special topic
